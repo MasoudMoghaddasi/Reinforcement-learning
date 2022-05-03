@@ -8,7 +8,7 @@ the parameters of the selected RL method and the position of the walls in the ma
 ![plot](./Maze%20Solver%20GUI/Images/GUI.PNG)
 
 
-User Interface of the Maze Solver GUI. For runing the GUI, please use HW1.m provided in the Maze Solver GUI directory.
+User Interface of the Maze Solver GUI. For accessing the GUI, please run HW1.m provided in the Maze Solver GUI directory.
 #
 ### History:
     2015  The first official version of the GUI by Masoud Moghaddasi
