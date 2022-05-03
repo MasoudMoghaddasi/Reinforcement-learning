@@ -5,7 +5,7 @@ In this GUI which is written in MATLAB, several RL methods for solving a maze ar
 the parameters of the selected RL method and the position of the walls in the maze. It can be used for teaching purposes and comparing the efficiency of the mothods comparing to each other.
 For runing please use HW1.m
 #
-![plot](./Maze Solver GUI/Images/GUI.PNG)
+![plot](./Maze%20Solver%20GUI/Images/GUI.PNG)
 User Interface of the Maze Solver GUI.
 #
 ### History:
